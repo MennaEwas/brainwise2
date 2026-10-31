@@ -1,0 +1,5 @@
+C:\Users\geeka\AppData\Local\Microsoft\WinGet\Packages\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\llvm-mingw-20260616-ucrt-x86_64\bin\x86_64-w64-mingw32-gcc.exe main.c -o main.exe
+
+
+.\main.exe
+
